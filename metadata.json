@@ -1,0 +1,7 @@
+{
+  "name": "LaborLink",
+  "description": "A platform connecting informal manual workers with recruiters through skill-based matching and geolocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
